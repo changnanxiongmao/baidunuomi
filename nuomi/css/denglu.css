@@ -1,0 +1,67 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	color:#222;
+	text-decoration:none;
+}
+#tou1{
+	width:962px;
+	height:76px;
+	margin:0 auto;
+	overflow:hidden;
+}
+#tou2{
+	margin-top:24px;
+	float:left;
+}
+#tou2 img{
+	float:left;
+}
+#tou2 span{
+	float:left;
+	border-left:1px solid #c9c9c9;
+	margin-left:20px;
+	padding-left:14px;
+	margin-top:15px;
+	font-size:18px;
+	color:#666;
+}
+#tou3{
+	float:right;
+}
+#tou3 span{
+	display:inline-block;
+	font-size:12px;
+	margin-top:37px;
+	color:#666;
+	margin-right:5px;
+}
+#tou3 a{
+	border:1px solid #ddd;
+	padding:9px 19px;
+	color:#666;
+}
+#zhong{
+	background:#f5fbfd;
+	border-top:1px solid #dbdbdb;
+	border-bottom:5px solid #dbdbdb;
+}
+#zhong1{
+	width:962px;
+	height:439px;
+	margin:0 auto;
+	overflow:hidden;
+}
+#zhongl{
+	margin-top:85px;
+	float:left;
+}
+#zhongr{
+	width:307px;
+	height:358px;
+	float:right;
+	background:#fff;
+	margin-top:47px;
+	border:1px solid #eeeeee;
+}
